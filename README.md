@@ -1,6 +1,6 @@
 # Machine-Learning-Applications
 
-***NOTE Notebook 9 is consist of creating my own notebook based on the dataset provided and apply machine learning techniques.
+***NOTE Notebook 9 is consist of creating my own notebook based on the dataset provided and apply machine learning techniques.***
 
 # Sentiment Analysis Machine Learning Workflow
 
